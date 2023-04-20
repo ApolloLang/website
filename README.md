@@ -4,7 +4,7 @@ description: Introduction to Apollo and Apollo's syntax
 
 # 🚀 Introduction
 
-Apollo is designed to be quick and easy to write. No need for a main function, you can init one tho and it will work like the C main function for example.\
+Apollo is designed to be quick and easy to write. No need for a main function, you can init one tho and it will work like the C main function for example. \
 \
 Example on an main function:
 
@@ -15,4 +15,9 @@ fn main: args
 ```
 {% endcode %}
 
-You can use the the "args" variable when defining a main function and it functions as the argv in C.\
+You can use the "args" variable when defining a main function and it functions as the argv in C.\
+
+
+## Your first Apollo program
+
+To begin create a file named **"hey-mom.ap".**
